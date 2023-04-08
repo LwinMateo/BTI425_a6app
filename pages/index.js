@@ -1,3 +1,15 @@
+/*********************************************************************************
+*  BTI425 – Assignment 06
+*  I declare that this assignment is my own work in accordance with Seneca  Academic Policy.  No part of this
+*  assignment has been copied manually or electronically from any other source (including web sites) or 
+*  distributed to other students.
+* 
+*  Name: _Lwin Yonal Mateo Lopez________________ Student ID: ___134710201___________ Date: _____April 8, 2023___________
+*
+*  Vercel App (Deployed) Link: ___bti-425-a6app.vercel.app____________
+*
+********************************************************************************/ 
+
 import { Image, Row, Col } from "react-bootstrap";
 
 export default function Home() {
